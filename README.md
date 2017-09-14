@@ -1,10 +1,10 @@
 # PartIA-Mechanics
 
-Part IA Mechanics (Michaelmas Term)
+## Part IA Mechanics (Michaelmas Term)
 
 This repository contains the Jupyter notebook activities for the Part IA Mechanics course (Michaelmas Term) in the Engineering Tripos at the University of Cambridge.
 
-Viewing and running
+## Viewing and running
 
 Copies of these notebooks are posted to the Microsoft Azure cloud service:
 
@@ -12,17 +12,17 @@ https://notebooks.azure.com/library/CUED-IA-Computing-Michaelmas
 
 It is recommended that you use these notebooks via the above link.
 
-Feedback and corrections
+## Feedback and corrections
 
 Please report suggestions or errors at:
 
 https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas/issues
 
-Author
+## Author
 
 These notebooks are developed by Tore Butlin (tb267@cam.ac.uk).
 
-License and copyright
+## License and copyright
 
 All material is copyright of Tore Butlin (tb267@cam.ac.uk).
 

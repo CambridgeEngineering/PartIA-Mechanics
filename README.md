@@ -8,7 +8,7 @@ This repository contains the Jupyter notebook activities for the Part IA Mechani
 
 Copies of these notebooks are posted to the Microsoft Azure cloud service:
 
-https://notebooks.azure.com/library/CUED-IA-Computing-Michaelmas
+https://notebooks.azure.com/torebutlin/libraries/part-ia-mechanics
 
 It is recommended that you use these notebooks via the above link.
 
@@ -16,7 +16,7 @@ It is recommended that you use these notebooks via the above link.
 
 Please report suggestions or errors at:
 
-https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas/issues
+https://github.com/CambridgeEngineering/PartIA-Mechanics/issues
 
 ## Author
 

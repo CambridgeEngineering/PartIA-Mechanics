@@ -1,6 +1,4 @@
-# PartIA-Mechanics
-
-## Part IA Mechanics (Michaelmas Term)
+# Part IA Mechanics
 
 This repository contains the Jupyter notebook activities for the Part IA Mechanics course (Michaelmas Term) in the Engineering Tripos at the University of Cambridge.
 
